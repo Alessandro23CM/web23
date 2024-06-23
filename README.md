@@ -61,8 +61,7 @@
     <nav>
         <ul>
             <li>
-                <a href="https://alessandro23cm.github.io/Autobiografia/">Autobiografia</a>
-            </li>
+                <a href="https://alessandro23cm.github.io/Autobiografia/">Autobiografia</a></li>
             <li><a href="file:///D:/Clase%20htlm/Proyecto/Entrevista.html">Entrevista</a></li>
             <li><a href="file:///D:/Clase%20htlm/Proyecto/Gustos%20e%20Intereses.html">Gustos</a></li>
             <li><a href="file:///D:/Clase%20htlm/Proyecto/Podcast%20y%20obra.html">Podcast y obra</a></li>
